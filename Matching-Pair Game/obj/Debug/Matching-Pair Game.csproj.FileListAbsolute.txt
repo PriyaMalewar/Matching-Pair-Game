@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\bin\Debug\Matching-Pair Game.exe.config
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\bin\Debug\Matching-Pair Game.exe
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\bin\Debug\Matching-Pair Game.pdb
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\obj\Debug\Matching-Pair Game.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\obj\Debug\Matching_Pair_Game.Form1.resources
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\obj\Debug\Matching_Pair_Game.Properties.Resources.resources
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\obj\Debug\Matching-Pair Game.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\obj\Debug\Matching-Pair Game.exe
+C:\Users\DELL\source\repos\Matching-Pair Game\Matching-Pair Game\obj\Debug\Matching-Pair Game.pdb
